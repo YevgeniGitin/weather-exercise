@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(168, 172, 172)
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 2px 2px 8px rgb(245, 227, 125);
+}
+
+.mapbox {
+    width: 90%;
+    height: 31em;
+    padding: 0;
+    margin: 0 auto;
+}
